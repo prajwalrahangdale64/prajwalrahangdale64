@@ -4,7 +4,7 @@
 
 ## 💼 Internship Experience
 
-####1. AI Assistant — RAG Chatbot | EvictSure
+#### 1. AI Assistant — RAG Chatbot | EvictSure
 
   - Worked extensively on the EvictSure AI Assistant, focusing on its RAG architecture, chatbot functionality, knowledge base, and ongoing improvements.
 
