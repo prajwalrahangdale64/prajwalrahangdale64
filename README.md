@@ -22,6 +22,8 @@
 
 - **Testing:** Implementing **unit, integration, regression, and Playwright end-to-end testing** across the application to ensure functionality and stability.
 
+- **Debugging Approach:** Reproducing issues, tracing them to their **root cause**, implementing and testing fixes, and verifying the changes to prevent **regressions**.
+
 ---
 
 ## 🚀 Featured Projects
