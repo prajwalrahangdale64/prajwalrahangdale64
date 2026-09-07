@@ -12,6 +12,16 @@
   - Features & Functionality: Quick-action chips and suggested questions for vague input, persistent conversations with resume and clear controls, markdown-formatted responses, thumbs-up/down and written-correction feedback, and automatic retry with a live countdown when the provider hits capacity.
   - Knowledge Base & Improvements: Updated the chatbot knowledge base while resolving bugs and improving performance.
 
+#### 2. Foreclosure (FCL) — Law Firm Case Management Platform | *In Progress*
+
+- **Architecture & Stack:** Developing a multi-tenant foreclosure case-management platform using **JavaScript/HTML, Node.js, Express, TypeScript, and Airtable**, with an architecture connecting the UI, API, and database.
+
+- **Modules & Development:** Developing **Entity, Client Portfolio, Property, Referrals, NetDirector Ingestion, and Cases modules**. Referrals support **manual case creation**, while NetDirector Ingestion accepts **cases through the NetDirector Global API**.
+
+- **Development & Tools:** Using **Claude Code** for AI-assisted development.
+
+- **Testing:** Implementing **unit, integration, regression, and Playwright end-to-end testing** across the application to ensure functionality and stability.
+
 ---
 
 ## 🚀 Featured Projects
