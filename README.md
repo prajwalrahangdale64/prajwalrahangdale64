@@ -26,6 +26,10 @@
 
 - Reproducing issues, tracing them to their **root cause**, implementing and testing fixes, and verifying the changes to prevent **regressions**.
 
+#### 4. **Git & GitHub:** 
+
+- Managing development through feature branches, staging and committing changes, pushing and pulling updates, raising pull requests, merging branches, and resolving merge conflicts.
+
 ---
 
 ## 🚀 Featured Projects
