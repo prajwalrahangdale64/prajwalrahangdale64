@@ -74,7 +74,7 @@
 **Shri Ramdeobaba College of Engineering and Management**
 **Nagpur, Maharashtra, India**
 
-**B. Tech in Industrial Engineering** · **CGPA:** **7.22/10**
+**B. Tech in Industrial Engineering** · CGPA: **7.22/10**
 
 **Final Year Project:** *IoT Based Conveyor Belt System for Sorting and Remote Monitoring*
 
