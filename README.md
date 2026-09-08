@@ -46,6 +46,8 @@
 
 ### 🤖 AI & Full Stack Projects
 
+- **AI Code Reviewer:** Developed an AI-powered code reviewer that analyzes uploaded files, pasted code, or GitHub PRs and provides structured feedback on readability, security, best practices, maintainability, fixes, and an overall score.
+
 ---
 
 ## 📚 Learning Journey
