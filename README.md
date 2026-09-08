@@ -14,7 +14,7 @@
 
 - **Testing & Improvements:** Tested chatbot functionality and workflows while **updating the knowledge base, resolving bugs, and optimizing performance**.
 
-#### 2. Foreclosure (FCL) — Law Firm Case Management Platform | *In Progress*
+#### 2. Foreclosure (FCL) — SaaS Case Management Platform for Law Firms | *In Progress*
 
 - **Architecture & Stack:** Developing a multi-tenant foreclosure case-management platform using **JavaScript/HTML, Node.js, Express, TypeScript, and Airtable**, with an architecture connecting the UI, API, and database.
 
