@@ -63,9 +63,9 @@
 
 ## 📜 Certifications
 
-- **Advanced SQL (Udemy):** https://www.udemy.com/certificate/UC-6e88b203-e7ef-425e-9a57-771da5ff7560/
-- **Python Programming (Udemy):** https://www.udemy.com/certificate/UC-d7228729-2908-442c-915d-4318edb546a9/
-- **Microsoft Power BI for Business Intelligence (Udemy):** https://ude.my/UC-cd70af8f-df07-465a-8e83-44dd2c35d492
+- **Advanced SQL (Udemy)** — [View Certificate](https://www.udemy.com/certificate/UC-6e88b203-e7ef-425e-9a57-771da5ff7560/)
+- **Python Programming (Udemy)** — [View Certificate](https://www.udemy.com/certificate/UC-d7228729-2908-442c-915d-4318edb546a9/)
+- **Microsoft Power BI for Business Intelligence (Udemy)** — [View Certificate](https://ude.my/UC-cd70af8f-df07-465a-8e83-44dd2c35d492)
 
 ---
 
