@@ -1,5 +1,11 @@
 ## 👨‍💻 About Me
 
+Hi! I'm Prajwal, an **Industrial Engineering graduate** working at the intersection of **AI, application development, and data analytics**.
+
+Currently gaining hands-on experience building **RAG-based AI assistants and SaaS applications**, while developing projects in **SQL, Python, and Power BI**.
+
+I enjoy **learning by building, solving problems, and exploring new technologies**.
+
 ---
 
 ## 💼 Internship Experience
