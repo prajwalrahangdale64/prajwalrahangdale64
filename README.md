@@ -50,10 +50,6 @@
 
 ---
 
-## 📚 Learning Journey
-
----
-
 ## 🛠️ Tech Stack
 
 ---
