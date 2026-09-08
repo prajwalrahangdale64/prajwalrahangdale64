@@ -81,3 +81,6 @@
 ---
 
 ## 📫 Connect with Me
+
+- **Email:** prajwalrahangdale64@gmail.com
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/prajwal-rahangdale-756a4b377/)
