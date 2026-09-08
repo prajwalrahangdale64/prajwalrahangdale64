@@ -55,9 +55,9 @@
 | Area | Technologies |
 |---|---|
 | **Data Analytics** | Advanced SQL · Python · Power BI · Excel · Pandas · NumPy · Matplotlib · Seaborn |
-| **Development** | JavaScript · HTML · TypeScript · Node.js · Express.js · Airtable |
-| **AI & LLM** | RAG · Azure OpenAI · Claude · Gemini · Claude Code |
-| **Testing & VCS** | Playwright · Git · GitHub |
+| **Application Development** | JavaScript · HTML · TypeScript · Node.js · Express.js · Airtable |
+| **AI & LLMs** | RAG · OpenAI · Claude · Gemini · Claude Code |
+| **Testing & Version Control** | Playwright · Git · GitHub |
 
 ---
 
