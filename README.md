@@ -38,6 +38,11 @@
 
 ### 📊 Data Analytics Projects
 
+- **HR Analytics:** Developed an end-to-end HR Analytics project using PostgreSQL for data analysis and Power BI for interactive dashboards.
+
+- **Banking Risk Analytics:** Conducted risk analytics in the banking domain using SQL and Python for exploratory data analysis (EDA) to understand and minimize financial risk in customer lending decisions.
+
+- **AdventureWorks Report:** Created an interactive Power BI dashboard analyzing revenue, profit, orders, and return trends across products, regions, and customers using AdventureWorks data.
 
 ### 🤖 AI & Full Stack Projects
 
